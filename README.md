@@ -1,2 +1,2 @@
 # rodrigoangulo.github.io
-This is my website. 
+Co-Founder & COO at Iceverse LLC.
