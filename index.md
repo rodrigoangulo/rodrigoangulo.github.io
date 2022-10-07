@@ -1,3 +1,3 @@
-# My perosnal webpage
+# My personal webpage
 
-This is my personal webpage for the data science 
+This is my personal webpage for showcasing projects.
